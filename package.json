@@ -1,5 +1,5 @@
 {
-  "name": "omdbapi",
+  "name": "omdbapiwrapper",
   "version": "1.0.0",
   "description": "A wrapper for the ombd api",
   "main": "index.js",
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/sbrem00/omdbapi/issues"
   },
-  "homepage": "https://github.com/sbrem00/omdbapi#readme"
+  "homepage": "https://github.com/sbrem00/omdbapi#readme",
+  "dependencies": {
+    "node-fetch": "^1.6.3"
+  }
 }

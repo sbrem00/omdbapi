@@ -6,7 +6,7 @@ A simple js wrapper for the omdb api (The Open Movie Database)
 ## Install 
 
 ```
-npm install omdbapi
+npm install omdbapiwrapper
 ```
 
 ## Example
