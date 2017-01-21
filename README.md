@@ -11,7 +11,7 @@ npm install omdbapi
 
 ## Example
 
-### Promise Chain
+### Promise
 ```js
 var omdb = require('omdbapi');
 omdb.search('pulp fiction')
