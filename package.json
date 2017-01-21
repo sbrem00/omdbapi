@@ -1,0 +1,25 @@
+{
+  "name": "omdbapi",
+  "version": "1.0.0",
+  "description": "A wrapper for the ombd api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sbrem00/omdbapi.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "api",
+    "omdb"
+  ],
+  "author": "Samuel Bremner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sbrem00/omdbapi/issues"
+  },
+  "homepage": "https://github.com/sbrem00/omdbapi#readme"
+}
